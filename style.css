@@ -74,13 +74,13 @@ main {
 
 
 .boas_vindas h1{
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 300;
     color: var(--primary-text-color);
     margin-bottom: 16px;
 }
 
-.boas_vindasn h1 strong{
+.boas_vindas h1 strong{
     font-weight: 500;
 }
 
@@ -107,6 +107,17 @@ main {
     padding: 12px;
     border-radius: 12px;
     box-shadow: var(--shadow);
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--primary-text-color);
+}
+
+
+.assuntos button div{
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    border-radius: 5px;
 }
 
 
