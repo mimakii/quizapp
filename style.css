@@ -48,6 +48,8 @@ header{
     display: flex;
     justify-content: flex-end;
     padding: 16px 24px;
+    max-width: 1160px;
+    margin-inline: auto;
 }
 
 .tema{
