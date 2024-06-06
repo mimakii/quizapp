@@ -81,6 +81,27 @@ header{
     color: var(--primary-text-color);
 }
 
+.assunto_icone.html {
+    background: var(--bg-html);
+}
+
+.assunto_icone.css{
+    background: var(--bg-css);
+}
+
+.assunto_icone.javascript {
+    background: var(--bg-javascript);
+}
+
+.assunto_icone img{
+    width: 100%;
+
+}
+
+.assunto_icone.acessibilidade {
+    background: var(--bg-acessibilidade);
+}
+
 .tema{
     padding: 8px 0;
     display: flex;
